@@ -1,0 +1,1 @@
+This is a card matching game. The user clicks card. If two cards match they both stay up if they do not match. They flip back to how they initially were. There is a count that shows the number of flips and matches. Pressing the reset button resets the game.
